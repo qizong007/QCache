@@ -1,4 +1,4 @@
-package QCache
+package qcache
 
 import (
 	"fmt"

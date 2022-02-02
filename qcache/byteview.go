@@ -1,4 +1,4 @@
-package QCache
+package qcache
 
 // ByteView 对缓存value的抽象与封装
 type ByteView struct {
